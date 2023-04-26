@@ -1,14 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@300;400&family=Montserrat:wght@400;700&display=swap');
 
-/*:root {
-    
-}*/
-
 .fondo {
 background-image: url('IMG/img-fondo.jpg');
 background-size: cover;
 }
-
+.logo{
+    width: 100%;
+}
 section {
     display: flex;
     max-width:none;
@@ -59,9 +57,6 @@ section img:hover {
     
     }
 
-    .H1 {
-        width: 0px;
-
-    }
+   
     
 }
